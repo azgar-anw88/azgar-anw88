@@ -1,5 +1,5 @@
 <h1 align="center">Hey everyone! 👋 , this is Shaik Azgar</h1>
-<h3 align="center">A Software Trainee in Appnetwise Company</h3>
+<h3 align="center">A Software Trainee in <a href="https://appnetwise.com/" target="_blank" rel="noopener noreferrer">Appnetwise Company</a></h3>
 
 - 🌱 I’m currently learning and working on **Python along with AI/ML and Database** 
 
