@@ -1,7 +1,7 @@
 <h1 align="center">Hey everyone! 👋 , this is Shaik Azgar</h1>
-<h3 align="center">Im new to IT & a Software Trainee in Appnetwise Company</h3>
+<h3 align="center">A Software Trainee in Appnetwise Company</h3>
 
-- 🌱 I’m currently learning **Python along with AI/ML and Database**
+- 🌱 I’m currently learning and working on **Python along with AI/ML and Database** 
 
 - 💻 Aspiring to become a versatile developer, I'm enthusiastic about contributing to open-source projects and collaborating with like-minded individuals to create impactful software solutions.
 
