@@ -12,5 +12,11 @@
 <a href="https://www.linkedin.com/in/azgar-shaik-5921352b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/azgar-shaik-5921352b2" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Achievements & Certifications:</h3>
+<p align="left">
+  - 🏆 Completed <strong>Startup School: Gen AI Program</strong>  
+  <a href="https://www.cloudskillsboost.google/public_profiles/302c704b-879b-4075-af8d-682cdce5b040" target="_blank" rel="noopener noreferrer">View My Badges</a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
