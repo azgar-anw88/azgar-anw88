@@ -65,7 +65,8 @@ Backend Developer at
 
 ## 📫 Connect With Me
 
-📧 hazarathazgar786@gmail.com  
+📧 Hazarath.Azgar@appnetwise.com
+
 🔗 <a href="https://www.linkedin.com/in/azgar-shaik-5921352b2/" target="_blank">LinkedIn</a>
 
 ---
