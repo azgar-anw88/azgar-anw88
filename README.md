@@ -1,22 +1,75 @@
-<h1 align="center">Hey everyone! 👋 , this is Shaik Azgar</h1>
-<h3 align="center">A Software Trainee in <a href="https://appnetwise.com/" target="_blank" rel="noopener noreferrer">Appnetwise Company</a></h3>
+<h1 align="center">Hey everyone 👋 I'm Shaik Azgar</h1>
+<h3 align="center">
+Backend Developer at 
+<a href="https://appnetwise.com/" target="_blank">Appnetwise Pvt Ltd</a>
+</h3>
 
-- 🌱 I’m currently learning/working on **Python along with AI/ML and Database** 
+---
 
-- 💻 Aspiring to become a versatile developer, I'm enthusiastic about contributing to open-source projects and collaborating with like-minded individuals to create impactful software solutions.
+## 👨‍💻 About Me ##
 
-- 📫 How to reach me **hazarath.azgar@appnetwise.com**
+**I’m a Backend / Full-Stack Engineer** focused on architecting secure and scalable SaaS platforms. My expertise lies in multi-tenant backend systems, role-based access control (RBAC), Row-Level Security (RLS), and JWT-based authentication. I prioritize clean architecture, API security, and performance optimization while building production-ready backend infrastructures. I’m passionate about designing systems that are not only functional but reliable, maintainable, and built to scale.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/azgar-shaik-5921352b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/azgar-shaik-5921352b2" height="30" width="40" /></a>
-</p>
+## 🏢 Professional Experience
 
-<h3 align="left">Achievements & Certifications:</h3>
-<p align="left">
-  - 🏆 Completed <strong>Startup School: Gen AI Program</strong>  
-  <a href="https://www.cloudskillsboost.google/public_profiles/302c704b-879b-4075-af8d-682cdce5b040" target="_blank" rel="noopener noreferrer">View My Badges</a>
-</p>
+### 💼 Backend Developer  
+- Designed scalable backend services using **TypeScript & Node.js**
+- Built secure REST APIs with proper authentication & authorization
+- Implemented **Supabase (PostgreSQL, Auth, Storage)** integrations
+- Designed and enforced **Row Level Security (RLS)** for multi-tenant isolation
+- Implemented **JWT-based authentication & RBAC**
+- Optimized PostgreSQL queries for performance & reliability
+- Collaborated closely with React & Next.js frontend teams
+- Applied modular backend architecture for maintainable codebases
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+## 🛠 Tech Stack
+
+### 💻 Languages
+- TypeScript
+- Python
+
+### ⚙ Backend
+- Node.js
+- Django REST Framework
+- REST APIs
+- FastAPI
+- Flask
+
+### 🗄 Database
+- PostgreSQL
+- SQL
+
+### 🔐 Authentication & Security
+- JWT
+- RBAC
+- Supabase Auth
+- Row-Level Security (RLS)
+
+### 🌐 Frontend
+- React.js
+- Next.js
+
+### ☁ Cloud & Runtime
+- Supabase
+- Deno Workers
+
+---
+
+## 📜 Certifications
+
+🏆 Python Certification – 2023  
+🏆 Startup School: Gen AI Program  
+
+---
+
+## 📫 Connect With Me
+
+📧 hazarathazgar786@gmail.com  
+🔗 <a href="https://www.linkedin.com/in/azgar-shaik-5921352b2/" target="_blank">LinkedIn</a>
+
+---
+
+## 🎯 Career Goal
+
+To grow into a Backend Architect specializing in secure multi-tenant SaaS systems and distributed backend infrastructure.
